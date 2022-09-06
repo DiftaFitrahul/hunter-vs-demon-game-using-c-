@@ -19,4 +19,4 @@ PvP simple game where the game is just play by 1 user. This game is created by C
 
 <img src="Image-for-readme/Screenshot (229).png" width="700"><br /><br /><br /><br />
 
-Thankyou, this is a simple game that i've been made. if you have a suggestion please inform us.
+Thankyou, this is a simple game that i've made. if you have a suggestion please inform us.
